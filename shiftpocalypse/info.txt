@@ -1,0 +1,12 @@
+el enunciado da una coleccion de numeros.
+estos se obtienen shifteando 4 veces a la izquierda los bits de cada char de la flag
+
+el nombre tiene 2 hints: shift y pocalypse, en referencia a los 4 jinetes, y a las 4 posiciones que se ha shifteado
+
+para recuperar la flag hay que shiftear 4 veces a la derecha a cada numero y ver a que valor corresponde en char
+
+como no tiene por que saberse que son 4, se puede hacer un bucle externo que vaya probando distinto numero de shifteos
+
+lo unico tricky puede ser que se empiece shifteando a la derecha, aunque al shitear a la derecha se van perdiendo unos
+y se pierde info por la posicion menos significativa, asi que es facil intuir que se ha shifteado a la izqiuerda y no a 
+la derecha para conservar la info del mensaje plaintext
