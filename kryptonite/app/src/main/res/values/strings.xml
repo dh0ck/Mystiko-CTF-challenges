@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">kryptonite</string>
+    <string name="a1">Hydrogen</string>
+    <string name="a2">Helium</string>
+    <string name="a3">Deuterium</string>
+    <string name="a4">Tritium</string>
+    <string name="b1">Neonkryptonite</string>
+    <string name="b2">Nitrogenkryptonite</string>
+    <string name="b3">Carbon monoxide</string>
+    <string name="c1">Fluorine</string>
+    <string name="c2">Argon</string>
+    <string name="c3">Oxygen</string>
+    <string name="c4">Methane</string>
+    <string name="c5">Kyrpt... Error found when processing current gas element...</string>
+    <string name="c6">KrYp70N1t3_k1LLz_$uPerM4N&amp;H4ck3R</string>
+    <string name="d1">Nitric Oxyde</string>
+    <string name="d2">Fluorine monoxide</string>
+    <string name="d3">Silane</string>
+    <string name="d4">Ozone</string>
+    <string name="d5">Xenon</string>
+    <string name="e1">Ethylene</string>
+    <string name="e2">Phosphorus</string>
+    <string name="e3">Diborane</string>
+    <string name="e4">Acetylene</string>
+    <string name="e5">Ethane</string>
+</resources>
